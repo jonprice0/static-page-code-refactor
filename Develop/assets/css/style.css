@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Styles the header, nav, and hero */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -54,6 +55,7 @@ p {
     background-position: center;
 }
 
+/* Styles the main and its sections */
 main {
     width: 75%;
     display: inline-block;
@@ -88,6 +90,7 @@ h2 {
     margin-left: 25px;
 }
 
+/* Styles the aside and its sections */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -115,6 +118,7 @@ aside img {
     max-width: 150px;
 }
 
+/* Styles the footer */
 footer {
     padding: 30px;
     clear: both;
