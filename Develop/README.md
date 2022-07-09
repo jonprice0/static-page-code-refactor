@@ -13,9 +13,9 @@
 
 ## Here are screenshots of the finished page:
 
-![screenshot of header and hero for refactored webpage](./Develop/assets/images/screenshot1.png)
+![screenshot of header and hero for refactored webpage](./assets/images/screenshot1.png)
 
-![screenshot of the main and aside elements](./Develop/assets/images/screenshot2.png)
+![screenshot of the main and aside elements](./assets/images/screenshot2.png)
 
 
 ## License
