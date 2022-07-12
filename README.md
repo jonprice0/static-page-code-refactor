@@ -10,6 +10,15 @@
 
 > Among the questions that popped up during the refactor was this: what are the distinct use cases for `<section>` and `<article>`? I think I've sorted those out correctly... Have a look for yourself!
 
+## Built with:
+
+* HTML
+* CSS
+
+## Website:
+
+[Visit the site on Github Pages.](https://jonprice0.github.io/static-page-code-refactor/)
+
 
 ## Here are screenshots of the finished page:
 
@@ -21,5 +30,9 @@
 ## License
 
 > Naturally, I have not included a license for this exercise. :)
+
+## Contributions:
+
+Made with ❤️ by Jonathan Price with starter code from the UCF Coding Bootcamp
 
 
